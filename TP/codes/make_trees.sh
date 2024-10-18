@@ -1,1 +1,0 @@
-iqtree -s coding_gene.phy -st CODON 
